@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm SatoshiWakasugi 👋
 
 <!--
 **SatoshiWakasugi/SatoshiWakasugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Languages and tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,vue,nuxtjs,nodejs,nestjs,jest,vite,netlify,postman,gcp,firebase,figma,ai,ps,pr,git,github,vscode)](https://skillicons.dev)
